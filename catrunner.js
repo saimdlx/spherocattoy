@@ -1,7 +1,8 @@
 //Written by Saim Ahmed
+//For use in Sphero EDU Program Runner
 
 var speed = 0;
-//For use in Sphero EDU ProgramRunner
+
 async function startProgram() {
   setMainLed({ r: 255, g: 255, b: 255 });
   
