@@ -1,3 +1,5 @@
+//Written by Saim Ahmed
+
 var speed = 0;
 //For use in Sphero EDU ProgramRunner
 async function startProgram() {
